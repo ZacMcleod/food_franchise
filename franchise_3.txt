@@ -1,0 +1,6 @@
+Order number: 4   Total money earned: 63.96
+
+Order number: 5   Total money earned: 79.95
+
+Order number: 6   Total money earned: 99.94
+

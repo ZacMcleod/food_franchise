@@ -1,0 +1,14 @@
+The "Steak House Restaurant Buisness" buisness has 1 sales and $19.99 to show for it
+
+Order number: 2   Total money earned: 35.98
+
+Order number: 3   Total money earned: 47.97
+
+The "Steak House Restaurant Buisness" buisness has 1 sales and $19.99 to show for it
+
+Order number: 2   Total money earned: 31.979999999999997
+
+Order number: 3   Total money earned: 51.97
+
+Order number: 4   Total money earned: 71.96
+
